@@ -43,8 +43,7 @@ url1 = "https://www.wowhead.com/"
 url2 = "https://www.wowhead.com/world-quests/legion/eu"
 url3 = "https://www.wowhead.com/world-quests/bfa/eu"
 url4 = "https://www.wowhead.com/world-quests/sl/eu"
-#driver = webdriver.Chrome('./chromedriver')  
-driver = webdriver.Chrome('C:/Users/patri/Desktop/Untitled Folder/chromedriver')  
+driver = webdriver.Chrome('C:/Users/YOUR_USER/Desktop/Untitled Folder/chromedriver')  
 
 # Standard News
 driver.get(url1)
